@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "323005261843",
+    "firebase_url": "https://viajaya-262af-default-rtdb.firebaseio.com",
+    "project_id": "viajaya-262af",
+    "storage_bucket": "viajaya-262af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323005261843:android:84268695f1286ec9aef7e6",
+        "android_client_info": {
+          "package_name": "com.GIF.viajaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323005261843-r6v4jmnd025ftm1upjsp3t65eg7l991t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo7a16yFSFfZ7w3A8j1_emJMcG2P14U-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323005261843-jm3cfba7llsg0rlok66he821fpqir764.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323005261843-3oni3sc1m6u2gth6g4bc0ad06n7n8a8j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.GIF.viajaya"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
